@@ -1,4 +1,4 @@
-#!/usr/bin/pythona
+#!/usr/bin/python
 
 from pprint import pprint
 
